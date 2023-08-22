@@ -1,0 +1,5 @@
+{#user}}
+Name: vittal harish	
+Skills: HTML, CSS, JS, manual testing , selenium
+Email: vittalharishk17@gmail.com
+{{/user}}
